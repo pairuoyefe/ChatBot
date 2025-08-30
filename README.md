@@ -51,6 +51,9 @@ The goal was to predict user intents (e.g., greetings, Star Wars references, etc
 |------------------|----------|------------------------------------------|
 | TensorFlow NN    | ~0.60    | Underperformed due to limited data.      |
 | Random Forest    | ~0.79    | Stronger performance on small dataset.   |
+<img width="488" height="357" alt="RandomF" src="https://github.com/user-attachments/assets/53c6d416-7b93-4c4a-9b65-a8af9a0c2c0a" />
+<img width="627" height="363" alt="tensoflow" src="https://github.com/user-attachments/assets/143e8a7e-3b8e-436a-b909-c769d7bbe590" />
+
 
 ---
 
